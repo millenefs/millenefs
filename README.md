@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @millenefs
-- 👀 I’m interested in Data Science, Big Data, Machine Learning.
-- 🌱 I’m currently learning Logic, Phyton, Database concepts.
+- 👀 I’m interested in Programming & Data Science.
+- 🌱 I’m currently learning Logic, Java, Phyton, Database concepts.
 - 💞️ I’m looking to collaborate on projects that uses my actual knowledges.
 - 📫 How to reach me millenefaria@ymail.com.
 
