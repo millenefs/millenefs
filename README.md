@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @millenefs
-- 👀 I’m interested in Data Science.
+- 💞️ I'm bachelor in Business Management
+- 👀 But I’m studying Data Science and Data Engineer.
 - 🌱 I’m currently learning Logic, Phyton, Database concepts.
 - 💞️ I’m looking to collaborate on projects that uses my actual knowledges.
 - 📫 How to reach me millenefaria@ymail.com.
