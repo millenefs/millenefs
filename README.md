@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @millenefs
-- 💞️ I'm a Business Manager, and I’m specializing in Data Engineering.
+- 💞️ I'm a Business Manager, and I’m specializing in IT Project Management.
 - 💞️ I’m looking to collaborate on projects that uses my actual knowledges.
 - 📫 How to reach me millenefaria@ymail.com.
 
